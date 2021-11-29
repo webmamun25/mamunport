@@ -1,0 +1,12 @@
+.total{
+    background-color:#5AFF80 ;
+    height: 70vh;
+}
+.total .content{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    
+    color: white;
+}
